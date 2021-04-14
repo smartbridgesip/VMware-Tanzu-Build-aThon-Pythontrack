@@ -1,0 +1,83 @@
+1. navigate to https://remotemysql.com/
+2. click on login
+3. select create account
+4. give the details 
+5. verify your email
+
+1. navigate to signup.sengrid.com
+2. give your deatils and click on create account
+3. give your details - random details and click on ok
+4. open verification mail and click on confirm email and click on reviewsecurity check
+5. select text on sms
+6. give your number
+7. apply the otp
+8.you are good to go
+firstapp.py
+@pp.route('/') : localhost:5000
+@app.route('/anystring) : localhost:5000/anystring - name, user, admin
+@app.route('/name/<float:parameter>') :localhost:5000/name/parameter this paramersr can be
+rtreated as an argument to the function preciding the route 
+url_for
+
+@app.route('/admin') localhost:500/admin - hello admin
+@app.route('guest/<name>') localhost:500/guest/pradeepthi - hello pradeepthi guest
+
+@app.route('/user/<nam>' localhot:5000/user/admin - hello
+hello pradeepthi guest
+1. write your code in any of the ide
+2. runyour code through comand promppt
+
+step1: open any ide
+step2: write the code
+step 3: runthe code
+	go the file where you have saved 
+	copy the path of your saved file
+	open cmd prompt 
+	type python pythonfile name
+	python firstapp.py
+Add  python path to system
+open c:
+navigate to the python folder
+copy the path of python folder
+open environment  variables
+edit the path option
+paste ypour copied pat
+
+
+
+Render html Page
+localhost:5000:
+return html page on browser
+
+
+#Flask Folder Structure
+folder-
+	statics
+		.css
+	templates
+		n number of HTML pages
+	python file
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
