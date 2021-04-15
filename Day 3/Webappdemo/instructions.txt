@@ -1,0 +1,24 @@
+1. dependency file  - requirements .text
+2. config file - Dpcker file
+3. build- building an image  release- pushing to registry run - run the appshould be serate
+4. backing services
+5. production dep same - image
+6. port binding
+
+1. docker images - show all the images
+2. docker ps - used to show running containers
+3. dockr pull registry name - install public image
+4. docker run -p 5000:5000 image name - to run installed or built image
+4.docker exec -it containerid sh to naviae to container directory
+6. goto the path pf your app and type below command
+docker build -t yourimagename . - to buld image
+7. pushing your app:
+step 1 make the name of your existing image as same as repository name
+docker tag yourlocalimagename repositoryname:latest
+step2 : push the image to repository
+docker push repositoryname:latest
+
+
+
+
+		
