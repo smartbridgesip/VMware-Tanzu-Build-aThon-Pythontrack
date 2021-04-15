@@ -1,0 +1,98 @@
+https://github.com/smartbridgesip/VMware-Tanzu-Build-aThon-Pythontrack
+
+frontend    webserver  backend  
+
+request your webserver with some sort of url - endpoints/ API end points
+
+/user
+function ():
+return "hie"
+/admin
+/user/<name>
+def (name):
+return name
+
+browser: hie , pradeepthi
+localhost:5000 - homepaage
+localhost:5000/user/pradeepthi
+
+
+step 1: login to remotemysql.com
+step 2: create database
+step 3: Create a Table 
+
+folder-
+	static 
+	css
+		style.css
+	templates
+		n number html pages
+		index.html, basic.htm
+	app.py - 
+
+open anacondapromt /ommand prompt :
+navigate to the flder
+right click on python file
+go to properties
+copy the path - loction
+open terminal
+cd paste the path python app.py
+
+Username: ath06As5XG
+
+Database name: ath06As5XG
+
+Password: 0uKsAfnsVT
+
+Server: remotemysql.com
+
+Port: 3306
+
+
+step 1: Login to remotemysql.com
+Step 2: create Database and save creds
+Step 3 : Create table 
+		click  on actions 
+		select phpmyadmin
+
+
+
+
+
+sessions:
+in python sessions will save the data in temporary memory  (cache)
+whenever the submit the data to mysql db :
+store
+
+loggin as well log ouut
+
+login - username password
+
+session id = save user and pasword
+
+log out :
+clear the session data
+dsiplaying i will use thoes sessions and 
+after displaying i will clear the session
+
+
+
+step1 : create databse
+step2: create table
+steop3 : inset data into table with sql quires
+step4: add session data
+step 5: retriewdata with the help of session data
+
+repat the steps from 3 to 5
+fetchone() - fetch the data based on given query - fetching the data with name attribute
+
+session['variablename']
+
+
+
+
+
+
+
+
+
